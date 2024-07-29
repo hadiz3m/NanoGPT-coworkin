@@ -1,0 +1,1 @@
+this repo create for coworkin to build a nano-gpt
